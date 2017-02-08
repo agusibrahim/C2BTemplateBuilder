@@ -1,6 +1,6 @@
 <?xml version='1.0' encoding='utf-8'?>
 <widget id="id.myconstruct2game" version="1.2.3" xmlns="http://www.w3.org/ns/widgets" xmlns:gap="http://phonegap.com/ns/1.0">
-    <name>My Construct2 Game</name>
+    <name>My Game2</name>
     <description>
         Construct2 Game for Android, Created by C2Buildozer App. -Agus Ibrahim
     </description>
