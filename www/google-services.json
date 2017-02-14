@@ -1,0 +1,117 @@
+{
+  "project_info": {
+    "project_number": "260941120165",
+    "firebase_url": "https://simpleapp-a5e1d.firebaseio.com",
+    "project_id": "simpleapp-a5e1d",
+    "storage_bucket": "simpleapp-a5e1d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:260941120165:android:48ccbdf9818afe01",
+        "android_client_info": {
+          "package_name": "ai.agusibrahim.fbhxk"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "260941120165-a97di6ho5vv1m5d5a6doklebgcdkgtks.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "ai.agusibrahim.fbhxk",
+            "certificate_hash": "EE71938B693AB43245D933703556870F9A699F36"
+          }
+        },
+        {
+          "client_id": "260941120165-1q71g3h9oc54hvrhg5mivp18is41gh3h.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB8LzWcR8q9lvtponmQimvTnT4QtjUNjbg"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "260941120165-1q71g3h9oc54hvrhg5mivp18is41gh3h.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:260941120165:android:71e04374291e072b",
+        "android_client_info": {
+          "package_name": "ai.agusibrahim.c2b"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "260941120165-1q71g3h9oc54hvrhg5mivp18is41gh3h.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB8LzWcR8q9lvtponmQimvTnT4QtjUNjbg"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:260941120165:android:bf5a5158baaad452",
+        "android_client_info": {
+          "package_name": "id.myconstruct2game"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "260941120165-1q71g3h9oc54hvrhg5mivp18is41gh3h.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB8LzWcR8q9lvtponmQimvTnT4QtjUNjbg"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
