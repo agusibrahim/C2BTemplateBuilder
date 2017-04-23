@@ -24,7 +24,7 @@
     <plugin name="cordova-plugin-screen-orientation" source="npm"/>
 	<plugin name="cordova-plugin-fullscreen" source="npm"/>
     <plugin name="com.peerio.cordova.plugin.social" source="npm"/>
-<plugin name="cordova-plugin-local-notifications" source="npm"/>
+<plugin name="de.appplant.cordova.plugin.local-notification" source="npm"/>
 <!--plugin spec="https://github.com/offbye/cordova-plugin-x5engine-webview.git" source="git"/-->
 <!--reference name="phonegap-version" value="cli-6.0.0" /-->
 
