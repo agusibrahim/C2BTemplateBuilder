@@ -30,7 +30,7 @@
 
     <plugin name="cordova-plugin-crosswalk-webview" source="npm"/>
 	<plugin name="cordova-build-architecture" spec="https://github.com/MBuchalik/cordova-build-architecture.git#v1.0.1" source="git" />
-	<preference name="buildArchitecture" value="x86" />
+	<preference name="buildArchitecture" value="arm" />
 	<preference name="xwalkMode" value="lite" />
  
 
