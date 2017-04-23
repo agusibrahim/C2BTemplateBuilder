@@ -28,10 +28,10 @@
 <!--plugin spec="https://github.com/offbye/cordova-plugin-x5engine-webview.git" source="git"/-->
 <!--reference name="phonegap-version" value="cli-6.0.0" /-->
 
-    <!--plugin name="cordova-plugin-crosswalk-webview" source="npm"/>
+    <plugin name="cordova-plugin-crosswalk-webview" source="npm"/>
 	<plugin name="cordova-build-architecture" spec="https://github.com/MBuchalik/cordova-build-architecture.git#v1.0.1" source="git" />
 	<preference name="buildArchitecture" value="x86" />
-	<preference name="xwalkMode" value="lite" /-->
+	<preference name="xwalkMode" value="lite" />
  
 
     <plugin name="cordova-plugin-media-capture" source="npm" spec="~1.2.0" />
