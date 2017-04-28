@@ -13,11 +13,10 @@ C2Buildozer bekerja secara offline, sehingga bisa digunakan dalam kondisi apapun
 ## Bagaimana ini bekerja?
 Construct 2 mempermudah pengguna membangun aplikasi/game HTML5 dengan cara WYSWYG, drag drop, tarik pidah, tetapkan event dan action, tapa bersentuhan langsung dengan HTML dan Javascript.
 Project hasil Export dari Construct 2 berupa HTML5, jadi pengguna fokus ke HTML5 (HTML/Javascript dan CSS) yg mana ketiganya tidak membutuhkan proses kompilasi untuk dijalankan.
- Jadi sangat membuang waktu jika kita yg berfokus di HTML5 tapi harus melewati proses compiling Android.  **C2Buildozer** memberikan solusi dimana kamu tidak perlu compile program Android (java), C2Buildozer menyediakan prebuild aplikasi yg siap di isi program HTML5. Itu yang membuat proses build di C2Buildozer menjadi lebih cepat.
-
+ Jadi sangat membuang waktu jika kita yg berfokus di HTML5 tapi harus melewati proses compiling Android.  **C2Buildozer** memberikan solusi dimana kamu tidak perlu compile program Android (java), C2Buildozer menyediakan prebuild aplikasi yg siap di isi program HTML5. Itu yang membuat proses build di C2Buildozer menjadi lebih cepat. Hal serupa juga sudah diterapkan pada [Game Engine Godot](https://godotengine.org/) yang membuat proses build APK menjadi cepat.
 ## Bagaimana cara menggunakannya?
 Pertama  **export project**  C2 ke  **TiZEN** , kenapa tizen?
-Karena hasil export-an tizen tidak banyak mengandung file-file yang tidak penting di Android, tidak seperti export-an HTML5. Ok, setelah di export,  buka folder hasil export dan  **packing semua ke ZIP**. Selanjutnya kirim ZIP tadi ke Android kamu untuk dibuka melalui  **C2Buildozer** 
+Karena hasil export-an tizen tidak banyak mengandung file-file yang tidak diperlukan Android, tidak seperti export-an HTML5. Ok, setelah di export,  buka folder hasil export dan  **packing semua ke ZIP**. Selanjutnya kirim ZIP tadi ke Android kamu untuk dibuka melalui  **C2Buildozer** 
 
 * Buka  **C2Buildozer**,  **Select ZIP** lalu arahkan ke ZIP hasil export tadi. klik NEXT.
 * Isi detail aplikasi seperti Nama, Package id, versi dan orientasi layar. Jika dirasa sudah cocok, klik NEXT
