@@ -1,4 +1,4 @@
-<p align="center">![image](https://lh3.googleusercontent.com/xNVBf-W7grp6_AN7qSOq_6ZmUmZDYknF2EwEFfWf46jFbreT1DLmmFudIOTaloliW0s=w300-rw)<br>
+<p align="center"><img src="https://lh3.googleusercontent.com/xNVBf-W7grp6_AN7qSOq_6ZmUmZDYknF2EwEFfWf46jFbreT1DLmmFudIOTaloliW0s=w300-rw"/><br>
 <a href='https://play.google.com/store/apps/details?id=ai.agusibrahim.c2b&pcampaignid=MKT-Other-global-all-co-prtnr-py-PartBadge-Mar2515-1'><img alt='Temukan di Google Play' src='https://play.google.com/intl/en_us/badges/images/generic/id_badge_web_generic.png'/></a>
 </p>
 ### Pengenalan
